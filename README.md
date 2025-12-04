@@ -1,9 +1,8 @@
 Код преобразования : 
 
 <!DOCTYPE html>
-<html>
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
 <title>Города</title>
 </head>
 <body>
@@ -80,5 +79,5 @@
 </ul>
 </li>
 </ul>
-</body>
-</html>
+
+</body></html>
